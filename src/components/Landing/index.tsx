@@ -19,52 +19,52 @@ interface LandingImage {
 const imageList: LandingImage[] = [
     {
         id: 1,
-        src: "/images/landing/1.jpg",
+        src: "/images/ylw.png",
         alt: "Image 1",
     },
     {
         id: 2,
-        src: "/images/landing/blue.jpg",
+        src: "/images/blue.jpg",
         alt: "Image 2",
     },
     {
         id: 3,
-        src: "/images/landing/2.jpg",
+        src: "/images/2.jpg",
         alt: "Image 3",
     },
     {
         id: 4,
-        src: "/images/landing/3.jpg",
+        src: "/images/3.jpg",
         alt: "Image 4",
     },
     {
         id: 5,
-        src: "/images/landing/main.jpg",
+        src: "/images/flw.jpg",
         alt: "Image 5",
     },
     {
         id: 6,
-        src: "/images/landing/4.jpg",
+        src: "/images/4.jpg",
         alt: "Image 6",
     },
     {
         id: 7,
-        src: "/images/landing/main.jpg",
+        src: "/images/main.jpg",
         alt: "Image 7",
     },
     {
         id: 8,
-        src: "/images/landing/5.jpg",
+        src: "/images/5.jpg",
         alt: "Image 8",
     },
     {
         id: 9,
-        src: "/images/landing/11.jpg",
+        src: "/images/11.jpg",
         alt: "Image 9",
     },
     {
         id: 10,
-        src: "/images/landing/9.jpg",
+        src: "/images/9.jpg",
         alt: "Image 10",
     }
 ]
